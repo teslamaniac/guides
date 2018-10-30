@@ -3,13 +3,17 @@ title: Blockquote Tag
 ---
 ## Blockquote Tag
 
-This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/pages/html/elements/blockquote-tag/index.md' target='_blank' rel='nofollow'>Help our community expand it</a>.
+The `<blockquote>` tag specifies a section as being from a different source.
 
-<a href='https://github.com/freecodecamp/guides/blob/master/README.md' target='_blank' rel='nofollow'>This quick style guide will help ensure your pull request gets accepted</a>.
+``` html
 
-<!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
+<blockquote cite="https://www.freecodecamp.org/">
+  <p>Our mission: to help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. We also have thousands of freeCodeCamp study groups around the world.</p>
+</blockquote>
+
+```
 
 #### More Information:
-<!-- Please add any articles you think might be helpful to read before writing the article -->
+- [W3Schools](https://www.w3schools.com/tags/tag_blockquote.asp)
 
 
